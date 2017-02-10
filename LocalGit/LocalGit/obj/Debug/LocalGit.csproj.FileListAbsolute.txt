@@ -1,0 +1,9 @@
+C:\Users\jared.berger\Desktop\Git\LocalGit\LocalGit\bin\Debug\LocalGit.exe.config
+C:\Users\jared.berger\Desktop\Git\LocalGit\LocalGit\bin\Debug\LocalGit.exe
+C:\Users\jared.berger\Desktop\Git\LocalGit\LocalGit\bin\Debug\LocalGit.pdb
+C:\Users\jared.berger\Desktop\Git\LocalGit\LocalGit\obj\Debug\LocalGit.csprojResolveAssemblyReference.cache
+C:\Users\jared.berger\Desktop\Git\LocalGit\LocalGit\obj\Debug\LocalGit.Form1.resources
+C:\Users\jared.berger\Desktop\Git\LocalGit\LocalGit\obj\Debug\LocalGit.Properties.Resources.resources
+C:\Users\jared.berger\Desktop\Git\LocalGit\LocalGit\obj\Debug\LocalGit.csproj.GenerateResource.Cache
+C:\Users\jared.berger\Desktop\Git\LocalGit\LocalGit\obj\Debug\LocalGit.exe
+C:\Users\jared.berger\Desktop\Git\LocalGit\LocalGit\obj\Debug\LocalGit.pdb
